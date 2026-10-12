@@ -74,14 +74,36 @@ Le repo suit Git Flow :
 
 ## Avancement
 
-- [ ] Jour 1 : vecteurs et similarité
+- [X] Jour 1 : vecteurs et similarité
 - [ ] Jour 2 : matrices et couche dense
 - [ ] Jour 3 : régression linéaire et descente de gradient
 - [ ] Jour 4 : probabilités et softmax
 - [ ] Jour 5 : statistiques et standardisation
 - [ ] Projet California Housing
 
+## Ce que j'ai appris
 
+Chaque journée se termine par une question. Mes réponses :
+
+**Jour 1.** Pourquoi des colonnes d'unités différentes (euros, kilos) posent problème dans un calcul de distance ?
+
+Parce que les échelles de valeurs sont trop différentes : une grande unité (comme le prix en milliers d'euros) va écraser les plus petites (comme le poids en kilos) dans le calcul, faussant ainsi les résultats.
+
+**Jour 2.** Pourquoi une activation non linéaire est indispensable dans un réseau de neurones ?
+
+_À rédiger_
+
+**Jour 3.** Pourquoi met-on l'erreur au carré plutôt que de prendre sa valeur absolue ?
+
+_À rédiger_
+
+**Jour 4.** Pourquoi un test fiable à 99 % peut donner un résultat positif peu fiable quand la maladie est rare ?
+
+_À rédiger_
+
+**Jour 5.** Pourquoi calcule-t-on la moyenne et l'écart-type sur le jeu d'entraînement seulement ?
+
+_À rédiger_
 
 ## Ressources
 
